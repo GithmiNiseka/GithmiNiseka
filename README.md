@@ -1,3 +1,5 @@
+<img src="https://tillerdigital.com/wp-content/uploads/2019/12/blog-13-web-dev-technologies-featured-768x432.png">
+
 # Hi there! 👋
 
 My name is Githmi Niseka, and I'm a UI/UX and Frontend Developer currently pursuing my undergraduate studies at UCSC.
