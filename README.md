@@ -18,4 +18,8 @@ My name is Githmi Niseka, and I'm a UI/UX and Frontend Developer currently pursu
 - Blogs : https://medium.com/@2020is026
 - Email: githmidesilva22@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/GithmiNiseka/github-readme-stats)
+
+
+
 Let's connect and collaborate on exciting projects! ✨
