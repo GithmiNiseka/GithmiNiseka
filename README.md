@@ -1,4 +1,4 @@
-<img src="https://tillerdigital.com/wp-content/uploads/2019/12/blog-13-web-dev-technologies-featured-768x432.png" width:100%;height:20%;>
+<img width:100% height:20% src="https://tillerdigital.com/wp-content/uploads/2019/12/blog-13-web-dev-technologies-featured-768x432.png" >
 
 # Hi there! 👋
 
