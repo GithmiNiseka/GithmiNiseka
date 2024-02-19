@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**GithmiNiseka/GithmiNiseka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Githmi Niseka, and I'm a UI/UX and Frontend Developer currently pursuing my undergraduate studies at UCSC.
 
-Here are some ideas to get you started:
+🚀 I'm passionate about creating delightful user experiences and building beautiful, functional interfaces. I enjoy exploring the intersection of design and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Skills:**
+- HTML, CSS, JavaScript
+- Frontend frameworks: React js
+- UI/UX design :Figma
+
+🌱 **Currently Learning:**
+- Next js
+
+📫 **Connect with me:**
+- LinkedIn :https://www.linkedin.com/in/githmi-de-silva-802084222/
+- Portfolio :https://www.behance.net/githmidesilva
+- Blogs : https://medium.com/@2020is026
+- Email: githmidesilva22@gmail.com
+
+Let's connect and collaborate on exciting projects! ✨
