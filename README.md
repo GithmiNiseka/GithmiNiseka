@@ -10,7 +10,7 @@ My name is Githmi Niseka, and I'm a UI/UX and Frontend Developer currently pursu
 - Frontend frameworks: React js
 - UI/UX design :Figma
 
-<img src="[https://tillerdigital.com/wp-content/uploads/2019/12/blog-13-web-dev-technologies-featured-768x432.png](https://static.wixstatic.com/media/97dbcd_540b79b17ce34374a2c23cbfa706eaaa~mv2.gif)" alt="Alt text" style="width:100vw; height:50vh;align:right;">
+<img src="https://static.wixstatic.com/media/97dbcd_540b79b17ce34374a2c23cbfa706eaaa~mv2.gif" alt="Alt text" style="width:100vw; height:50vh;align:right;">
 
 🌱 **Currently Learning:**
 - Next js
